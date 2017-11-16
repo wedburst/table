@@ -16,4 +16,4 @@ i hope you enjoy this table!
 
 Author & copyright (c) 2017: [Rawed Abou](https://github.com/wedburst)
 
-MIT License
+Free License
